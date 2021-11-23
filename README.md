@@ -6,7 +6,6 @@
       <img width="400" src="https://i.imgur.com/6eLNqGN.png" />
     </td>
     <td style="border: 0";>
-     [![Balance8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balance8)](https://github.com/Balance8/github-readme-stats)
       <h3>Check Out My Pinned Projects Below!</h3>
       <!-- <ul>
         <li>
@@ -25,3 +24,9 @@
     </td>
   </tr>
 </table>
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=balance8&show_icons=true&theme=tokyonight)
+](https://github.com/balance8/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balance8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
