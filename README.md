@@ -6,15 +6,7 @@
       <img width="400" src="https://i.imgur.com/6eLNqGN.png" />
     </td>
     <td style="border: 0";>
-      <p>
-        ☀️ By day, I'm a Financial Advisor at <a href="http://www.slocumwealthmgt.com/">Slocum Wealth Management<a/>.
-      </p>
-      <p>
-         🌙 By night, I'm studying React, Next.js, and all things automation.
-      </p>
-      <!-- <p>
-        🌙 By night, I write <a href="https://spacejelly.dev/">tutorials on spacejelly.dev</a>, I supplement that writing with <a href="https://youtube.com/colbyfayock">videos on Youtube</a>, <a href="https://www.twitch.tv/colbyfayock">stream on Twitch</a>, and I'm an <a href="https://egghead.io/instructors/colby-fayock?af=atzgap">instructor at Egghead.io</a>.
-      </p> -->
+     [![Balance8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balance8)](https://github.com/Balance8/github-readme-stats)
       <h3>Check Out My Pinned Projects Below!</h3>
       <!-- <ul>
         <li>
