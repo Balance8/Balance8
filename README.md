@@ -29,7 +29,5 @@
 [![Michael's GitHub stats](https://github-readme-stats-ten-orpin-84.vercel.app/api?username=Balance8&show_icons=true&theme=tokyonight)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-https://
 
-[![Top Langs](https://github-readme-stats-ten-orpin-84.vercel.app/api?username=Balance8/api/top-langs/?username=balance8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-ten-orpin-84.vercel.app/api/top-langs/?username=Balance8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
